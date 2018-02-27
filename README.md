@@ -5,8 +5,10 @@
  - 范都都/男/1991 
  - 本科/常熟理工学院计算机系 
  - 工作年限：3年
- - 技术博客：http://blog.csdn.net/jiqiren122424629
+ - 联系方式：13022521686/122424629@qq.com
  - Github：http://github.com/fandudu
+ - 技术博客：http://blog.csdn.net/jiqiren122424629
+ 
 
  - 期望职位：Web前端开发工程师
  - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
@@ -52,7 +54,7 @@ APP：云痕教师
 使用Cordova结合HTML, CSS & JS进行开发的移动App  
 #### 责任
    ▲负责项目的日常维护和部分模块的重构  
-   ▲参与网络请求的过渡，封装AFNetworking与Cordova插件进行 JS 和 OC 的网络交互        
+   ▲参与网络请求的过渡，封装AFNetworking与Cordova插件进行 JS 和 OC 的网络交互  
    ▲主要参与首页的全新改版，其他涉及到的模块有社区，个人中心等  
 
 ## 上海梓钦科技有限公司 （ 2015年2月 ~ 2016年2月 ）
