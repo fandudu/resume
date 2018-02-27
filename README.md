@@ -51,8 +51,8 @@ APP：云痕教师
 我由昆山智慧城市小组倾力打造的为市民提供资讯、出行、教育等多领域的市民公共服务的APP  
 使用Cordova结合HTML, CSS & JS进行开发的移动App  
 #### 责任
-   ▲负责项目的日常维护和部分模块的重构；
-   ▲参与网络请求的过渡，封装AFNetworking与Cordova插件进行 JS 和 OC 的网络交互；       
+   ▲负责项目的日常维护和部分模块的重构  
+   ▲参与网络请求的过渡，封装AFNetworking与Cordova插件进行 JS 和 OC 的网络交互        
    ▲主要参与首页的全新改版，其他涉及到的模块有社区，个人中心等  
 
 ## 上海梓钦科技有限公司 （ 2015年2月 ~ 2016年2月 ）
@@ -71,10 +71,10 @@ APP：云痕教师
 npm地址：https://www.npmjs.com/package/yh-preview
 
 #### 责任
-   ▲读取photoswipe源代码以及开发文档调用；  
-   ▲按照需求修改源代码；  
-   ▲打包上传到npm共同事安装使用；  
-   ▲维护插件兼容Windows，Mac oc,iOS和Android.  
+  ▲读取photoswipe源代码以及开发文档调用；  
+  ▲按照需求修改源代码；  
+  ▲打包上传到npm共同事安装使用；  
+  ▲维护插件兼容Windows，Mac oc,iOS和Android.  
 
 
 # 技能清单
