@@ -19,7 +19,7 @@
 以下均为我熟练使用的技能
 
 - Web开发：HTML/JS/JQuery/Ajax
-- 前端框架：VueJS/Element-UI/VantUI/mp-vue
+- 前端框架：VueJS/Element-UI/VantUI/uni-app
 - 前端工具：Webpack5/AntV/ECharts/Sass/Cordova
 - 数据库相关：MySQL
 - 版本管理、文档和自动化部署工具：Svn/Git
