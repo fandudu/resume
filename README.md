@@ -16,11 +16,11 @@
 # 专业技能
 以下均为我熟练使用的技能
 
-- Web开发：HTML/JS/CSS/ES/JQuery/Ajax/SASS/LESS
-- 前端框架：Vue/Element-UI/VantUI/uni-app
-- 前端工具：Webpack5/AntV/ECharts/Sass/Cordova
-- 数据库相关：MySQL
-- 版本管理、文档和自动化部署工具：Svn/Git
+- Web开发：HTML/JS/CSS/ES/JQuery/Ajax  
+- 前端框架：Vue/Element-UI/VantUI/uni-app  
+- 前端工具：Webpack/AntV/ECharts/Sass/Less/Cordova  
+- 数据库相关：MySQL/Oracle  
+- 版本管理、文档和自动化部署工具：Svn/Git  
 
 ---
 
